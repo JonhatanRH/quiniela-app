@@ -1,0 +1,10 @@
+# This file is intentionally left blank to avoid committing unnecessary files.
+
+# Add files and directories to ignore here.
+env/
+
+__pycache__/
+
+*.pyc
+
+db.sqlite3
